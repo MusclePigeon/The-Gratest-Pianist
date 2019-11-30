@@ -1,2 +1,2 @@
-# The-Gratest-Pianist
+# The-Greatest-Pianist
 HTMLとCSSの練習用です。
