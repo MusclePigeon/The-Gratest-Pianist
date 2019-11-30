@@ -1,3 +1,3 @@
 # The-Greatest-Pianist
-HTMLとCSSの練習用です。\n
+HTMLとCSSの練習用です。  
 https://musclepigeon.github.io/The-Greatest-Pianist/
